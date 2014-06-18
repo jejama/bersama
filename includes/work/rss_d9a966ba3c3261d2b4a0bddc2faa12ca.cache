@@ -1,0 +1,40 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2014 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:34:"iOSC Mobile Version for OSC 2.3.3.";s:4:"link";s:38:"http://addons.oscommerce.com/info/8629";s:11:"description";s:960:"Mobile OSC 7.3.3. - mobile version for OSCommerce 2.3.3.x. and OSCommerce 2.2rc2a<br />
+<br />
+Fix for the 7.3.2 to 7.3.3. update doc, please use this package<br />
+<br />
+Changes:<br />
+- rel=external was missing in options.php theme link, theme was not immediately changed when ajax-page load was used.<br />
+- Fix for canonical and alternate header tags. Same fixes included like uploaded before. (thanks to @papalevies)<br />
+- Date type tag removed in create_account.php, it doesn't use correct format with browsers using input enhancement. (thanks to Razmik Gregorian)<br />
+- In catalog_mb.php distinct added to the database query to avoid duplicate products for products in more than one categories. This only applied if manufacturer select menu is used. (thanks to @PiLLaO)<br />
+- Obsolete variable mobileFile removed in mobile_redirect.php, no functionality issue, just for variable clean-up. (thanks to @papalevies)<br />
+<br />
+<br />
+Full Package";s:7:"pubDate";s:31:"Tue, 22 Apr 2014 21:49:00 +0200";}i:1;a:4:{s:5:"title";s:37:"Contribution support 1.0 for iOSC 5.x";s:4:"link";s:38:"http://addons.oscommerce.com/info/8578";s:11:"description";s:376:"Version 3.5 - 22 April 2014<br />
+<br />
+- Fix in SEO URLs_2.2._by_chemo_vers3.2 (thanks to @PiLLaO)<br />
+- In KissIt Image Thumbnailer: Added instructions for mobile OSC 7.3.0 and newer<br />
+- OPI Image Thumbnail: Added instructions for mobile OSC 7.3.0 and newer<br />
+- more pics 6_vers3: Added instructions for mobile OSC 7.3.0 and newer<br />
+<br />
+<br />
+FUll Package";s:7:"pubDate";s:31:"Tue, 22 Apr 2014 18:51:52 +0200";}i:2;a:4:{s:5:"title";s:33:"Shopping Cart with Product Images";s:4:"link";s:38:"http://addons.oscommerce.com/info/9048";s:11:"description";s:223:"Working File to add product images alongside the product names in the shopping cart box.<br />
+<br />
+Please ensure you backup all files.<br />
+<br />
+Any queries/modification requests please contact me.<br />
+<br />
+Thanks";s:7:"pubDate";s:31:"Mon, 21 Apr 2014 15:08:35 +0200";}i:3;a:4:{s:5:"title";s:41:"categories and products on one page (cap)";s:4:"link";s:38:"http://addons.oscommerce.com/info/9047";s:11:"description";s:789:"Wenn in einer Kategorie sowohl Unterkategorien vorhanden sind, als auch Produkte, die der Kategorie direkt zugeordnet sind, werden im Standard-OScommerce nur die Produkte angezeigt. Die Unterkategorien sind dabei nur in der Kategorienbox zu sehen.<br />
+<br />
+Mit dieser &Auml;nderung werden sowohl die Unterkategorien als auch die Produkte gleichzeitig angezeigt.<br />
+<br />
+Zur n&auml;heren Erl&auml;uterungen bitte die angef&uuml;gten Bildschirmkopien ansehen.<br />
+<br />
+---------<br />
+If sub-categories and products exists in one categorie, only the products are shown. The sub-categories are only shown in the category box.<br />
+With this contribution the sub-categories and the products are both shown at the same time.<br />
+<br />
+For details take a look at the screenshots";s:7:"pubDate";s:31:"Thu, 17 Apr 2014 09:28:34 +0200";}i:4;a:4:{s:5:"title";s:36:"Terminverwaltung/calendar management";s:4:"link";s:38:"http://addons.oscommerce.com/info/7059";s:11:"description";s:267:"In dieser Version wurde nur eine Kleinigkeit ge&auml;ndert: der Absender der Email ist nicht mehr der Shop, sondern der Kunde.<br />
+-------<br />
+This version contains only a minor change: the sender of the email is no longer the shop, but the customer.<br />
+<br />";s:7:"pubDate";s:31:"Thu, 17 Apr 2014 09:19:08 +0200";}}s:11:"items_count";i:5;}
